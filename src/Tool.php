@@ -6,7 +6,7 @@
  * @create 2016-11-26 15:59
  */
 
-namespace toolbox;
+namespace debmzhang\toolbox;
 
 class Tool
 {
